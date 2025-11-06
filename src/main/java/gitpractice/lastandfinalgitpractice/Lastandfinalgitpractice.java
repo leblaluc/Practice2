@@ -11,6 +11,6 @@ package gitpractice.lastandfinalgitpractice;
 public class Lastandfinalgitpractice {
 
     public static void main(String[] args) {
-        System.out.println("rev 2");
+        System.out.println("remote 3");
     }
 }
